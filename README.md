@@ -1,5 +1,6 @@
 # Banking_Analytics
  Banking Analytics Project
+ 
 📌 Overview
 
 This project focuses on analyzing banking data to uncover key insights and visualize trends that can support business decisions. It involves end-to-end data handling: from extracting and cleaning data using SQL and Python to creating interactive dashboards using Power BI.
